@@ -31,6 +31,7 @@ public class HomeWork2 {
                 break;
             default:
                 System.out.println("This is a wrong number");
+                break;
         }
     }
 
